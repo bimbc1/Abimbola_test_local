@@ -12,6 +12,7 @@ pipeline{
       }
     }
     // stage('Build containers'){
+    // hello world
     //   steps{
     //     sh 'docker-compose up -d'
     //   }
